@@ -1,5 +1,12 @@
 # A tap for EB Library and eblook
 
+## How to User This Tap
+
+    brew tap shinichiyuhara/homebrew-tap
+
+    brew install -s ebu
+
+    brew install -s eblook
 
 ## EB Library及びeblookのインストール
 　未だにEPWINGの辞書を利用しており、また、Emacsから検索することが多いです。しかし、M1 Macになってから、インストールの仕方が記憶と違ってきているように思えます。そこで、今回、新たにM1 MacにEmacsのlookupをインストールした手順を自分のためのメモとして残しておきます。
