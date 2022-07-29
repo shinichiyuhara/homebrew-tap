@@ -1,6 +1,6 @@
 # A tap for EB Library and eblook
 
-## How to User This Tap
+## How to Use this Tap
 
     brew tap shinichiyuhara/homebrew-tap
 
