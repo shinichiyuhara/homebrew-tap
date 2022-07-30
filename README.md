@@ -40,4 +40,15 @@ configureのオプションに
 
     $ brew install --build-from-source -v eblook
 
+## lookupのインストール
+
+http://green.ribbon.to/~ikazuhiro/lookup/files/lookup-1.4+media-20220424.tar.gz
+
+を展開して
+
+$ ./configure --with-lispdir=/Users/sy/.emacs.d/
+
+$ make
+
+$ make install
 
