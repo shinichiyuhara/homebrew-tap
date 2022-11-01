@@ -14,7 +14,7 @@ class Eblook < Formula
     # ENV.deparallelize  # if your formula fails when building in parallel
     # Remove unrecognized options if warned by configure
     # https://rubydoc.brew.sh/Formula.html#std_configure_args-instance_method
-    system "./configure", *std_configure_args, "--disable-silent-rules", "--with-ebu-conf=/usr/local/etc/ebu.conf"
+    system "./configure", *std_configure_args, "--disable-silent-rules", "--with-ebu-conf=/opt/homebrew/etc/ebu.conf"
     # system "cmake", "-S", ".", "-B", "build", *std_cmake_args
     system "make install"
   end
