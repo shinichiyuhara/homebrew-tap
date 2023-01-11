@@ -2,10 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Eblook < Formula
-  desc "eblook 1.6.1+media"
+  desc "eblook-1.6.1+media-20220426"
   homepage "http://ikazuhiro.s206.xrea.com/staticpages/index.php/eblook"
-  url "http://ikazuhiro.s206.xrea.com/filemgmt/visit.php/196"
-  sha256 "ebd5886176c2d52aea9077ef441af06b9181bda2ac4395def55ff305c288094e"
+  url "http://ikazuhiro.s206.xrea.com/filemgmt/visit.php/204"
+  sha256 "e83c9521239ee046d37efa7b4cca356c1a3eac4e35a3153c90d6dd24c1cb0c0f"
   license ""
 
   # depends_on "cmake" => :build
