@@ -5,7 +5,7 @@ class Ebu < Formula
   desc ""
   homepage ""
   url "http://green.ribbon.to/~ikazuhiro/dic/files/ebu-4.5-20220808.tar.gz"
-  sha256 "df72d09a937dcc91586eff5b9e4d18b9d5d80bc78dd74e541b052f3ebe92a2a5"
+  sha256 "374e90f8738d0ffc7a1e2f3d1c2be70626135f89aeb0656bc7ab0a0eb66f5b89"
   license ""
 
   # depends_on "cmake" => :build
